@@ -1,1 +1,8 @@
 Removes songs.pk from mp3 files in given folder recursively
+
+How to use it?
+* Make sure you have python2 executable working.
+* cd Songs.pk-Remover
+* ./removesongspk.sh /path/to/mp3/files
+
+Enjoy a cleaner audio library
